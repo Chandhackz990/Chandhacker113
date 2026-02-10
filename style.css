@@ -1,0 +1,36 @@
+body{
+margin:0;
+font-family:Arial;
+background:black;
+color:white;
+}
+
+.hero{
+display:flex;
+justify-content:space-between;
+padding:40px;
+border-bottom:2px solid gold;
+}
+
+.hero h1{color:gold}
+
+.hero img{
+width:220px;
+border:2px solid gold;
+}
+
+section{
+padding:40px;
+}
+
+.skill-box{
+border:1px solid gold;
+padding:10px;
+margin:10px 0;
+}
+
+footer{
+text-align:center;
+padding:20px;
+color:gray;
+}
